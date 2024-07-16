@@ -126,7 +126,6 @@ test('fake gold bar', async ({ page }) => {
     }
    }
   
-
 });
 
 
